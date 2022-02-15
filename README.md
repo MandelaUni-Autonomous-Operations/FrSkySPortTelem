@@ -7,5 +7,10 @@ This is explained in further detail at the blogpost link mentioned previously.
 
 # S.Port Sensor Connections
 Connection diagrams are provided for Arduino and Teensy microcontrollers.
-## Arduino Connection
-![alt text](http://url/to/img.png)
+## Arduino Connection Diagram
+![Screenshot](/images/328p_sport_connection_diagram.jpg)
+## Teensy Connection Diagrams
+![Screenshot](/images/teensy_sport_connection_diagram.jpg)
+![Screenshot](/images/teensy_36_sport_connection_diagram.jpg)
+![Screenshot](/images/teensy_40_sport_connection_diagram.jpg)
+![Screenshot](/images/teensy_41_sport_connection_diagram.jpg)
