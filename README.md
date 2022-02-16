@@ -14,3 +14,9 @@ Connection diagrams are provided for Arduino and Teensy microcontrollers.
 ![Screenshot](/images/teensy_36_sport_connection_diagram.jpg)
 ![Screenshot](/images/teensy_40_sport_connection_diagram.jpg)
 ![Screenshot](/images/teensy_41_sport_connection_diagram.jpg)
+
+```python
+def myMethod():
+    pass
+    
+```
